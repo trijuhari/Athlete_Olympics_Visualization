@@ -6,7 +6,7 @@ Read my [medium article]( https://hirazone.medium.com/data-visualization-olympic
 
 All code is available in the notebook entitled `olympic-exploration.ipynb`. Note that if you want to follow along, you will need to set up a local PostgreSQL server by installing [PostgreSQL](https://www.postgresqltutorial.com/install-postgresql/) and [PgAdmin](https://www.pgadmin.org/) onto your local machine.
 
-<img src="./figures/num_athletes_count_overtime.png" width=800/>
+<img src="./figures/num_athlete_count_overtime.png" width=800/>
 <img src="./figures/number_athlete_per_sport.png" width=800/>
 
 <img src="./figures/age_distribution_of_medalists.png" width=800/>
